@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+  box-sizing: border-box;
+}
+
+.scroll-button{
+    position: fixed;
+    top: 1000px;
+}
+.buttton{
+    position: fixed ;
+    bottom: 200px;
+}
+.cardstyle{
+    backdrop-filter: 'blur(0px) saturate(200%)';
+    -webkit-backdrop-filter: 'blur(0px) saturate(200%)';
+    background-color: 'rgba(17, 25, 40, 0)';
+    border-radius: '12px';
+    border: '1px solid rgba(255, 255, 255, 0.125)',
+}
